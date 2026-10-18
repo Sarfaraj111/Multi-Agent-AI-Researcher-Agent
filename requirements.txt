@@ -1,0 +1,53 @@
+# ==============================
+# Core LangChain / LangGraph
+# ==============================
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# ==============================
+# LLM Providers
+# ==============================
+langchain-google-genai
+# langchain-groq
+# langchain-openai
+
+# ==============================
+# Web Search
+# ==============================
+tavily-python
+langchain-tavily
+
+# ==============================
+# Web Scraping
+# ==============================
+beautifulsoup4
+requests
+lxml
+
+# ==============================
+# Environment Variables
+# ==============================
+python-dotenv
+
+# ==============================
+# Data Processing
+# ==============================
+pydantic
+
+# ==============================
+# HTTP / Async Support
+# ==============================
+httpx
+aiohttp
+
+# ==============================
+# Application / UI
+# ==============================
+streamlit
+
+# ==============================
+# Utilities
+# ==============================
+typing-extensions
